@@ -1,5 +1,4 @@
 from tkinter.filedialog import *
-
 import tkinter as tk
 
 from textblob import Word
